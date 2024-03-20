@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+#divcentro{
+    background-color:rgb(51,50,49);
+    width: 19%;
+    height: 500px;
+    margin-left:39%;
+    margin-top:63px;
+    padding:20px;
+    border-radius:20px;
+}
+p{
+    margin-top: 0px;
+    margin-left:24%;
+    margin-bottom:0px;
+    font-weight:bold;
+}   
+#img{
+    width: 28%;
+    height: 16%;
+    border-radius:50px;
+    margin-top: 15px;
+    margin-left:37% ;
+
+}
+.Verde{
+    color:limegreen;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:34%;
+}
+button{
+    margin-top: 15px;
+    margin-left:5%;
+    width:90%;
+    height:41px;
+    border-radius:3px;
+    border:none;
+    background-color:rgba(22, 22, 22,0.44);
+    color:white;
+    font-weight:bold;
+}
+button:hover{
+    background-color: rgb(64, 199, 89);
+    cursor: pointer;
+}
+.Branco{
+    color: white;
+    
+}
+.Tamanho{
+    margin-top: 15px;
+    font-size:20px;
+}
+.Cinza{
+    font-size:15px;
+    color:rgb(222, 219, 219);
+    margin-left:6%;
+    margin-top:20px;
+}
